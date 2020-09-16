@@ -1,8 +1,13 @@
 body {
 	background-color: #add8e6;
-	color: black;                                                                   
+	color: black;   
+	border: 2px solid;
+	border-color: black;                                                                
 }
+
 img{
   	border: 2px solid;
 	border-color: black;
+	font-size:2px;
 }
+
